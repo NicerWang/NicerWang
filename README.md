@@ -6,7 +6,6 @@
 
 - 📱 Big fan of consumer electronics
 
-- 👉 [My Notes Here](https://nicerwang.github.io)
 
 
 
