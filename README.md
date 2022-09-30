@@ -2,7 +2,7 @@
 
 **Java** / Python / C++
 
-[📜Blog](https://nicerwang.github.io)
+[📜Zone](https://nicerwang.github.io) | [📜空间](https://nicerwang.github.io/zh/)
 
 ## 🎯Focus
 
