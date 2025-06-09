@@ -4,6 +4,14 @@
 
 ## 🎯Focus
 
+### Papers
+
+| Link                                                        | Title                                                        |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| [Joint-GCG](https://nicerwang.github.io/Joint-GCG/)         | Joint-GCG: Unified Gradient-Based Poisoning Attacks on Retrieval-Augmented Generation Systems |
+| [ToolCommander](https://nicerwang.github.io/ToolCommander/) | From Allies to Adversaries: Manipulating LLM Tool Scheduling through Adversarial Injection |
+| [AdInject](https://nicerwang.github.io/AdInject/)           | AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery |
+
 ### Projects
 
 | Name                                                  | 描述                                   | Desc                                                        |
